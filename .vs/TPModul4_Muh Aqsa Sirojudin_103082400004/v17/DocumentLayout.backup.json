@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{5AA8DED0-4492-4889-8E43-9A403EF65C31}|TPModul4_Muh Aqsa Sirojudin_103082400004.csproj|c:\\users\\yumina\\source\\repos\\tpmodul4_muh aqsa sirojudin_103082400004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AA8DED0-4492-4889-8E43-9A403EF65C31}|TPModul4_Muh Aqsa Sirojudin_103082400004.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA8DED0-4492-4889-8E43-9A403EF65C31}|TPModul4_Muh Aqsa Sirojudin_103082400004.csproj|c:\\users\\yumina\\source\\repos\\tpmodul4_muh aqsa sirojudin_103082400004\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA8DED0-4492-4889-8E43-9A403EF65C31}|TPModul4_Muh Aqsa Sirojudin_103082400004.csproj|solutionrelative:doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA8DED0-4492-4889-8E43-9A403EF65C31}|TPModul4_Muh Aqsa Sirojudin_103082400004.csproj|c:\\users\\yumina\\source\\repos\\tpmodul4_muh aqsa sirojudin_103082400004\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA8DED0-4492-4889-8E43-9A403EF65C31}|TPModul4_Muh Aqsa Sirojudin_103082400004.csproj|solutionrelative:kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoorMachine.cs",
+              "DocumentMoniker": "C:\\Users\\Yumina\\source\\repos\\TPModul4_Muh Aqsa Sirojudin_103082400004\\DoorMachine.cs",
+              "RelativeDocumentMoniker": "DoorMachine.cs",
+              "ToolTip": "C:\\Users\\Yumina\\source\\repos\\TPModul4_Muh Aqsa Sirojudin_103082400004\\DoorMachine.cs",
+              "RelativeToolTip": "DoorMachine.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:44:13.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KodePos.cs",
+              "DocumentMoniker": "C:\\Users\\Yumina\\source\\repos\\TPModul4_Muh Aqsa Sirojudin_103082400004\\KodePos.cs",
+              "RelativeDocumentMoniker": "KodePos.cs",
+              "ToolTip": "C:\\Users\\Yumina\\source\\repos\\TPModul4_Muh Aqsa Sirojudin_103082400004\\KodePos.cs",
+              "RelativeToolTip": "KodePos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:39:46.935Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +57,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Yumina\\source\\repos\\TPModul4_Muh Aqsa Sirojudin_103082400004\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T14:33:20.944Z",
               "EditorCaption": ""

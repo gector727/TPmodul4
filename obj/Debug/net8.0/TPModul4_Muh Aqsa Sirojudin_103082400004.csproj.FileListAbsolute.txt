@@ -1,0 +1,15 @@
+C:\Users\Yumina\source\repos\TPModul4_Muh Aqsa Sirojudin_103082400004\bin\Debug\net8.0\TPModul4_Muh Aqsa Sirojudin_103082400004.exe
+C:\Users\Yumina\source\repos\TPModul4_Muh Aqsa Sirojudin_103082400004\bin\Debug\net8.0\TPModul4_Muh Aqsa Sirojudin_103082400004.deps.json
+C:\Users\Yumina\source\repos\TPModul4_Muh Aqsa Sirojudin_103082400004\bin\Debug\net8.0\TPModul4_Muh Aqsa Sirojudin_103082400004.runtimeconfig.json
+C:\Users\Yumina\source\repos\TPModul4_Muh Aqsa Sirojudin_103082400004\bin\Debug\net8.0\TPModul4_Muh Aqsa Sirojudin_103082400004.dll
+C:\Users\Yumina\source\repos\TPModul4_Muh Aqsa Sirojudin_103082400004\bin\Debug\net8.0\TPModul4_Muh Aqsa Sirojudin_103082400004.pdb
+C:\Users\Yumina\source\repos\TPModul4_Muh Aqsa Sirojudin_103082400004\obj\Debug\net8.0\TPModul4_Muh Aqsa Sirojudin_103082400004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yumina\source\repos\TPModul4_Muh Aqsa Sirojudin_103082400004\obj\Debug\net8.0\TPModul4_Muh Aqsa Sirojudin_103082400004.AssemblyInfoInputs.cache
+C:\Users\Yumina\source\repos\TPModul4_Muh Aqsa Sirojudin_103082400004\obj\Debug\net8.0\TPModul4_Muh Aqsa Sirojudin_103082400004.AssemblyInfo.cs
+C:\Users\Yumina\source\repos\TPModul4_Muh Aqsa Sirojudin_103082400004\obj\Debug\net8.0\TPModul4_Muh Aqsa Sirojudin_103082400004.csproj.CoreCompileInputs.cache
+C:\Users\Yumina\source\repos\TPModul4_Muh Aqsa Sirojudin_103082400004\obj\Debug\net8.0\TPModul4_Muh Aqsa Sirojudin_103082400004.sourcelink.json
+C:\Users\Yumina\source\repos\TPModul4_Muh Aqsa Sirojudin_103082400004\obj\Debug\net8.0\TPModul4_Muh Aqsa Sirojudin_103082400004.dll
+C:\Users\Yumina\source\repos\TPModul4_Muh Aqsa Sirojudin_103082400004\obj\Debug\net8.0\refint\TPModul4_Muh Aqsa Sirojudin_103082400004.dll
+C:\Users\Yumina\source\repos\TPModul4_Muh Aqsa Sirojudin_103082400004\obj\Debug\net8.0\TPModul4_Muh Aqsa Sirojudin_103082400004.pdb
+C:\Users\Yumina\source\repos\TPModul4_Muh Aqsa Sirojudin_103082400004\obj\Debug\net8.0\TPModul4_Muh Aqsa Sirojudin_103082400004.genruntimeconfig.cache
+C:\Users\Yumina\source\repos\TPModul4_Muh Aqsa Sirojudin_103082400004\obj\Debug\net8.0\ref\TPModul4_Muh Aqsa Sirojudin_103082400004.dll
