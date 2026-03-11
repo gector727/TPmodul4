@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yumina\\source\\repos\\TPModul4_Muh Aqsa Sirojudin_103082400004\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA8DED0-4492-4889-8E43-9A403EF65C31}|TPModul4_Muh Aqsa Sirojudin_103082400004.csproj|c:\\users\\yumina\\source\\repos\\tpmodul4_muh aqsa sirojudin_103082400004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA8DED0-4492-4889-8E43-9A403EF65C31}|TPModul4_Muh Aqsa Sirojudin_103082400004.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yumina\\source\\repos\\TPModul4_Muh Aqsa Sirojudin_103082400004\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Yumina\\source\\repos\\TPModul4_Muh Aqsa Sirojudin_103082400004\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:33:20.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
